@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Agnes4Him
-- 👀 I’m a DevOps Engineer
+- 👀 I’m a DevOps/ Coud Engineer
 - 💞️ I’m looking to collaborate on any project of interest
 - 📫 How to reach me ojuhagnes@gmail.com
 
