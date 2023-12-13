@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Agnes4Him
-- 👀 I’m interested in React, NodeJS, ExpressJS, Python, PHP
-- 🌱 I’m currently learning Python
+- 👀 I’m a DevOps Engineer
 - 💞️ I’m looking to collaborate on any project of interest
 - 📫 How to reach me ojuhagnes@gmail.com
 
