@@ -2,7 +2,7 @@
 Hi there, I'm Agnes 👋
 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F77361&background=060A0C&vCenter=true&multiline=true&width=730&height=100&lines=Hi+there,+I'm+Agnes!;DevOps+%7C+Cloud+Engineer+%7C+Security+Enthusiast;Building+secure+and+scalable+cloud+solutions+%E2%9C%A8" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F77361&background=060A0C&vCenter=true&multiline=true&width=750&height=100&lines=Hi+there,+I'm+Agnes!;DevOps+%7C+Cloud+Engineer+%7C+Security+Enthusiast;Building+secure+and+scalable+cloud+solutions+%E2%9C%A8" alt="Typing SVG">
 </p>
 
 ---
